@@ -1,0 +1,23 @@
+01 - A solução deve ser disponibilizada em Cloud ou On-premise?  
+A solução deve ser disponibilizada em Cloud, pois oferece escalabilidade, flexibilidade e redução de custos operacionais.
+Isso possibilita ajustes automáticos na infraestrutura conforme a demanda dos usuários, garantindo alta disponibilidade e
+desempenho sem a necessidade de investimentos em infraestrutura física e manutenção.  
+
+02 - Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, qual ferramenta acredita ser apropriada para o controle de tarefas da equipe? A ferramenta é ágil?  
+A ferramenta mais adequada para o controle de tarefas seria o Jira, pois é amplamente utilizada para gestão ágil de projetos e
+permite a organização eficiente das atividades, acompanhamento do progresso e colaboração entre os membros da equipe.
+Além disso, facilita a aplicação de metodologias ágeis, como Scrum e Kanban, tornando o desenvolvimento mais estruturado e
+dinâmico.  
+
+03 - Você se sente capaz de liderar esta equipe? Por quê?  
+Sim, pois tenho experiência em gestão de projetos e liderança técnica, além de conhecimento aprofundado em metodologias ágeis e
+a estruturação de soluções escaláveis. Minha experiência em coordenação de equipes e implementação de processos eficientes me
+permite direcionar o time para a entrega de uma solução robusta dentro dos prazos estabelecidos.  
+
+04 - Se pudesse sugerir uma melhoria, mudança ou oportunidade, o que seria?  
+Uma possível melhoria seria a implementação de uma abordagem serverless para otimizar custos e simplificar a manutenção da infraestrutura. Além disso, poderia ser incorporada uma autenticação multifator (MFA) para reforçar a segurança da criação de contas e um cache de CEPs para reduzir chamadas repetitivas à API do ViaCEP, melhorando a performance da aplicação.  
+
+05 - Acha válido esse desafio para o processo que está participando?  
+Sim, o desafio é bem estruturado e permite avaliar a capacidade técnica, a abordagem arquitetural e as habilidades de
+planejamento e execução do candidato. Além disso, cobre aspectos essenciais para o desenvolvimento de soluções escaláveis
+e integradas, sendo um bom critério de avaliação para a posição.
